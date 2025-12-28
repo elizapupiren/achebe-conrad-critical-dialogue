@@ -1,0 +1,16 @@
+# Edward Cawthorne, "Postcolonial Conrad: Re‑evaluating Achebe's Critique"
+
+## Summary
+In his 2018 article "Postcolonial Conrad: Re‑evaluating Achebe's Critique," Edward Cawthorne argues that Achebe's reading of *Heart of Darkness*, while foundational, overlooks the novel's own internal critique of imperialism. Cawthorne contends that Conrad’s depiction of African landscape and people is not merely racist caricature but a deliberate, if flawed, attempt to expose the hypocrisy of European colonial rhetoric. The article traces key passages where Conrad’s narrator, Marlow, expresses ambivalence about the colonial project, and suggests that Achebe’s essay, by focusing solely on the dehumanizing imagery, misses the text’s meta‑critical dimension.
+
+## Analysis
+Cawthorne’s central thesis is that *Heart of Darkness* operates on two levels: a surface narrative that reproduces colonial stereotypes, and a subsurface narrative that undermines those very stereotypes by showing their emptiness. He draws on postcolonial theorists such as Homi Bhabha to argue that Conrad’s “horror” is not just Kurtz’s degeneration but the horror of a colonial system that reduces both colonizer and colonized to hollow shells.
+
+The article engages directly with Achebe’s claim that Conrad denies Africans “human expression.” Cawthorne counters that Conrad deliberately withholds such expression to highlight the European inability (or refusal) to see Africans as fully human—a literary strategy that, in his view, indicts the colonial gaze rather than endorsing it. He points to moments where Marlow’s descriptions of African rituals are tinged with awe rather than contempt, suggesting a more complex representation than Achebe allows.
+
+While Cawthorne’s argument is theoretically sophisticated, his evidence is sometimes selective. For instance, he glosses over the notorious “rudimentary souls” passage, which Achebe cites as a clear example of racism. Moreover, his reliance on Bhabha’s concept of mimicry may not fully account for the visceral, non‑theoretical impact of Conrad’s imagery on readers, especially those from formerly colonized regions.
+
+## Reflection
+Cawthorne’s article represents a significant strand of post‑Achebean Conrad scholarship that seeks to recuperate *Heart of Darkness* as a critical, rather than complicit, colonial text. By shifting the focus from authorial intention to textual ambivalence, he opens a space for readings that acknowledge both the novel’s historical racism and its potential for anti‑colonial critique. This intervention complicates the Achebe‑Conrad debate by suggesting that the two positions are not mutually exclusive: one can accept Achebe’s indictment of Conrad’s racist imagery while still recognizing the novel’s capacity to subvert colonial ideology.
+
+In the broader discourse, Cawthorne’s work reminds us that literary texts are often sites of contradiction, and that a single “correct” interpretation may be elusive. His article encourages a more nuanced teaching of *Heart of Darkness*, one that does not dismiss the novel outright but uses its contradictions to spark deeper conversations about representation, power, and the limits of Western narrative.
